@@ -1,0 +1,8 @@
+1,abdullah,CIS,IS
+2,ali,CIT,IT
+4,ali,IOT,IOT
+3,ali,IOT,IOT
+5,abdullah,AI,AI
+6,alll,IS,IS
+8,abdullah,IT,2345
+7,mohamed,is,213
